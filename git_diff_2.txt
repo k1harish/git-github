@@ -1,4 +1,2 @@
 Hi My name is Harish
-Adding lines --Line 1
-Adding Lines -- Line 2
-Adding Lines -- Line 3
+Harish is learning
